@@ -3,7 +3,7 @@ fr-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/fr
 omegaconf==2.1.0
 poutyne==1.6
 spacy==3.0.6
-torch==1.9.0
+torch==1.11.0
 transformers==4.11.3
 hydra-core
 tensorboard
