@@ -4,7 +4,7 @@ omegaconf==2.1.0
 poutyne==1.6
 spacy==3.0.6
 torch==1.11.0
-transformers==4.11.3
+transformers==4.30.2
 hydra-core
 tensorboard
 pandas
